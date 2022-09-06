@@ -1,8 +1,8 @@
 ﻿Console.WriteLine("Введите три числа");
 /*
-string num1 = Console.ReadLine();
-string num2 = Console.ReadLine();
-string num3 = Console.ReadLine();
+string number1 = Console.ReadLine();
+string number2 = Console.ReadLine();
+string numer3 = Console.ReadLine();
 var iNum1 = int.Parse(num1);
 var iNum2 = int.Parse(num2);
 var iNum3 = int.Parse(num3);
@@ -24,4 +24,4 @@ if (max < iNum3)
 {
     max = iNum3;
 }
-Console.WriteLine($"{max} тут самое большое");
+Console.WriteLine($"{max} максимальное значение");
